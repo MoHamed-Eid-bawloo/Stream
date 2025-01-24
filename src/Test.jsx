@@ -134,7 +134,7 @@ export default function Test () {
                       <li><span><i className="fa-solid fa-plus"></i></span></li>
                       <li>
                         <span>
-                          <Link to={trailerVideo} download><i className="fa-solid fa-download"></i></Link>
+                          <Link to={"sss"} download><i className="fa-solid fa-download"></i></Link>
                         </span>
                       </li>
                     </ul>
