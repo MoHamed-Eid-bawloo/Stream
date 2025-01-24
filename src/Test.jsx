@@ -65,7 +65,7 @@ export default function Test () {
                     preload="auto"
                     data-setup='{}'
                   >
-                    <source src={trailerVideo} type="video/mp4" />
+                    <source src={"dddwdw"} type="video/mp4" />
                     <source src="MY_VIDEO.webm" type="video/webm" />
                   </video>
                 </div>
@@ -159,7 +159,7 @@ export default function Test () {
                 </div>
                 <div className="trailor-video col-md-3 col-12 mt-lg-0 mt-4 mb-md-0 mb-1 text-lg-right">
                   <Link data-fslightbox="html5-video" to="https://www.youtube.com/watch?v=QCGq1epI9pQ" className="video-open playbtn block-images position-relative playbtn_thumbnail">
-                    <img src={genreImage} className="attachment-medium-large size-medium-large wp-post-image" alt="" loading="lazy" />
+                    <img src={"dwwd"} className="attachment-medium-large size-medium-large wp-post-image" alt="" loading="lazy" />
                     <span className="content btn btn-transparant iq-button">
                       <i className="fa fa-play me-2 text-white"></i>
                       <span>Trailer Link</span>
