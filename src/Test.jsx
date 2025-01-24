@@ -1,5 +1,5 @@
-import genreImage from "./assets/images/genre/01.webp"; // Import the genre image
-import trailerVideo from "./assets/images/video/Surah Al-Baqarah Mohamed AlMinshawi.mp4"; // Import the trailer video
+// import genreImage from "./assets/images/genre/01.webp"; // Import the genre image
+// import trailerVideo from "./assets/images/video/Surah Al-Baqarah Mohamed AlMinshawi.mp4"; // Import the trailer video
 import loader from "./assets/images/loader.gif"
 import { Link } from "react-router-dom";
 import React, { useEffect, useRef } from "react";
